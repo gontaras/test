@@ -1,0 +1,18 @@
+{
+	"name" : "gtv/test",
+	"description" : "this is test package",
+	"type" : "library",
+	"license" : "my",
+	"autoload" : {
+		"psr-4" : {
+			"Gtv\\Test\\" : "src/"
+		}
+	},
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "authors" : [{
+			"name" : "gtv"
+		}
+	]
+}

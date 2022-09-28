@@ -1,0 +1,15 @@
+что должен уметь фреймворк
+Db
+Log
+Router
+?Session
+Middleware
+translate
+======================const======
+II -- корень
+IID -- id
+IW -- web public dir
+IV -- var dir
+defined('IIBP') or define('IIBP', II . '/' . IID);
+defined('IH') or define('IH', $_SERVER['SERVER_NAME']);
+==================================
